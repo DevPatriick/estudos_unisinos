@@ -8,7 +8,8 @@ Este repositório é meu caderno digital para organizar e acompanhar o progresso
 ## 📚 Disciplinas e Progresso
 
 ### 🖥️ Programação 1 (16 semanas)
-- [ ] Semana 1 - Resumo:
+- [X] Semana 1 - Resumo: Arquiterura Von Neumann, Linguagem de Máquina x Linguagem
+de Alto Nível, Processo de Interpretação e Compilação, Algoritimos (Fluxogramas, Pseudocódigos, Descritivo), Variáveis, tipo de dados (string, int, float, boolean...), Sintaxe (Conjunto de regras da linguagem de programação - FORMA) e Semântica (Criar um tipo de dado e atribuir outro tipo, SIGNIFICADO).
 - [ ] Semana 2 - Resumo:
 - [ ] Semana 3 - Resumo:
 - [ ] Semana 4 - Resumo:
