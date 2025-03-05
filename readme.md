@@ -45,7 +45,7 @@ de Alto Nível, Processo de Interpretação e Compilação, Algoritimos (Fluxogr
 - [ ] Semana 16 - Resumo:
 
 ### 🏢 Administração em Perspectiva (8 semanas)
-- [ ] Semana 1 - Resumo:
+- [✔] Semana 1 - Resumo: Administração é a atividade de combinar e digirir os recursos necessários para alcançar um objetivo. Administração: Planejar, Organizar, Controlar e Digirir.
 - [ ] Semana 2 - Resumo:
 - [ ] Semana 3 - Resumo:
 - [ ] Semana 4 - Resumo:
